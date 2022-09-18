@@ -9,6 +9,6 @@ r=int(input("Ingrese un numero "))
 pi=3.14159
 a=pi*r**2
 
-print(f'El area del circulo es: {a}')
+print(f'El area del circulo es: ', area_circulo(pi,r))
 
 

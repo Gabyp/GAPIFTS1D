@@ -7,5 +7,5 @@ def area_rectangulo(b,h):
 b= int (input("Ingrese el valor de la base "))
 h= int (input("Ingrese el valor de la altura "))
 
-a=b*h 
-print (f'Resultado del area es: {a}')
+
+print (f'Resultado del area es:', area_rectangulo(b,h))
